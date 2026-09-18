@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Yashashvi, a BCA student and frontend developer from India.
+I'm Yashashvi, a BCA student and web developer from India.
 
 I like building things for the web, experimenting with ideas, and turning
 random thoughts into projects I can actually use.
